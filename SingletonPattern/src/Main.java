@@ -12,6 +12,10 @@ public class Main {
 
         System.out.println("Hello World!");
         System.err.println("Str = " + str);
+
+//        Class<?> booleanClass = boolean.class;
+//        System.err.println("::: " + booleanClass.getCanonicalName());
+
     }
 
     static {
